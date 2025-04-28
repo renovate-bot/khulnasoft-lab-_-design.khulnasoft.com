@@ -1368,16 +1368,16 @@
   integrity sha512-d9zaMRSTIKDLhctzH12MtXvJKSSUhaHcjV+2Z+GK+EEY7XKpP5yR4x+N3TAcHTcu963nIr+TMcCb4DBCYX1z6Q==
 
 "@evilmartians/lefthook@^1.10.3":
-  version "1.10.4"
-  resolved "https://registry.yarnpkg.com/@evilmartians/lefthook/-/lefthook-1.10.4.tgz#4d42d17e4976819d8a7d64afbd3e24f9e3e34756"
-  integrity sha512-4Kmt4VkOuzUhyU9Glfvcq3PXsXEPUI49aq5zCnGyThkQk9TgQKi0GKqAGotuItT/gKQQDbD+WFgxBS2OW9PC+Q==
+  version "1.11.12"
+  resolved "https://registry.yarnpkg.com/@evilmartians/lefthook/-/lefthook-1.11.12.tgz#a0312827e0d18098f3b63098008d3bc993a1119f"
+  integrity sha512-IQW69dcjGy/Qpp9i3BsZkMhLFi1NpXsNpr9NQCslCfe4SSg5hAbdTOzk8Wzx8pewlkYZhlzcBfudGbSnGUK7hw==
 
 "@floating-ui/core@^1.3.1":
-  version "1.5.3"
-  resolved "https://registry.yarnpkg.com/@floating-ui/core/-/core-1.5.3.tgz#b6aa0827708d70971c8679a16cf680a515b8a52a"
-  integrity sha512-O0WKDOo0yhJuugCx6trZQj5jVJ9yR0ystG2JaNAemYUWce+pmM6WUEFIibnWyEJKdrDxhm75NoSRME35FNaM/Q==
+  version "1.6.9"
+  resolved "https://registry.yarnpkg.com/@floating-ui/core/-/core-1.6.9.tgz#64d1da251433019dafa091de9b2886ff35ec14e6"
+  integrity sha512-uMXCuQ3BItDUbAMhIXw7UPXRfAlOAvZzdK9BWpE60MCn+Svt3aLn9jsPTi/WNGlRUu2uI0v5S7JiIUsbsvh3fw==
   dependencies:
-    "@floating-ui/utils" "^0.2.0"
+    "@floating-ui/utils" "^0.2.9"
 
 "@floating-ui/dom@1.4.3":
   version "1.4.3"
@@ -1386,10 +1386,10 @@
   dependencies:
     "@floating-ui/core" "^1.3.1"
 
-"@floating-ui/utils@^0.2.0":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@floating-ui/utils/-/utils-0.2.1.tgz#16308cea045f0fc777b6ff20a9f25474dd8293d2"
-  integrity sha512-9TANp6GPoMtYzQdt54kfAyMmz1+osLlXdg2ENroU7zzrtflTLrrC/lgrIfaSe+Wu0b89GKccT7vxXA0MoAIO+Q==
+"@floating-ui/utils@^0.2.9":
+  version "0.2.9"
+  resolved "https://registry.yarnpkg.com/@floating-ui/utils/-/utils-0.2.9.tgz#50dea3616bc8191fb8e112283b49eaff03e78429"
+  integrity sha512-MDWhGtE+eHw5JW7lq4qhc5yRLS11ERl1c7Z6Xd0a58DozHES6EnNNwUWbMiG4J9Cgj053Bhk8zvlhFYKVhULwg==
 
 "@gitlab/application-sdk-browser@^0.3.3":
   version "0.3.3"
