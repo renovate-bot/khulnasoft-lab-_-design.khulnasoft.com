@@ -41,7 +41,7 @@
     "iframe-resizer": "^4.4.5",
     "mermaid": "^10.9.3",
     "nuxt": "^3.15.4",
-    "pikaday": "1.8.0"
+    "pikaday": "1.8.2"
   },
   "devDependencies": {
     "@babel/core": "7.26.0",
