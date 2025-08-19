@@ -70,7 +70,7 @@
   "resolutions": {
     "chokidar": "3.6.0",
     "sass-loader": "^10.5.2",
-    "vue": "2.7.16",
+    "vue": "3.0.0",
     "vue-server-renderer": "2.7.16"
   },
   "jest": {
